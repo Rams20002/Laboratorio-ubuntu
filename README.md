@@ -8,7 +8,13 @@ No use el modo puente porque hace que la VM se conecte directamente a mi wifi,ex
 
 
 
-<img width="1087" height="82" alt="image" src="https://github.com/user-attachments/assets/61ae2bc3-22d2-4a99-b938-eabd5ba40d92" />
+<img width="1088" height="84" alt="Screenshot 2026-11-25 014245" src="https://github.com/user-attachments/assets/a7039c2a-8c5a-4819-afaa-f77f4fdf03a1" />
 
-Esto son los snapshots que hice, en total fueron dos: uno apenas al instalar ubuntu (sin guest adittions) y el otro con guest adittions,actualmente esta apagada
 
+
+Esto son los snapshots que hice, en total fueron dos: uno apenas al instalar ubuntu (sin guest adittions),el otro con guest adittions y el otro con ambas mas el user sin privilegios.
+
+
+<img width="492" height="211" alt="Screenshot 2026-11-25 014357" src="https://github.com/user-attachments/assets/926f5595-9049-4356-a4e3-2d4f6c62f47b" />
+
+este es el user no admin que creé
